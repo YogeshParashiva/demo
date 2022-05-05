@@ -12,3 +12,4 @@
 		<%= request.getRemoteAddr()  %></p>
 	</body>
 </html>
+echo hello world
